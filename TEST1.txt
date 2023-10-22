@@ -2,3 +2,4 @@
 次のテスト
 git add
 git commit
+git diff
